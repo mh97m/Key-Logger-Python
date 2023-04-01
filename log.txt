@@ -1,0 +1,16 @@
+Mouse clicked: Button.left at (1622, 494)
+Mouse clicked: Button.left at (1622, 494)
+Mouse clicked: Button.left at (1471, 325)
+Mouse clicked: Button.left at (1471, 325)
+Mouse clicked: Button.right at (1483, 651)
+Mouse clicked: Button.right at (1483, 651)
+Mouse clicked: Button.left at (1504, 823)
+Mouse clicked: Button.left at (1504, 823)
+Keys pressed: a s
+Keys pressed: a e r f a
+Keys pressed: v g f d f d e r g h j
+Keys pressed: a
+Keys pressed: z a q z a q z a q d
+Keys pressed: a
+Mouse clicked: Button.left at (970, 816)
+Mouse clicked: Button.left at (970, 816)
